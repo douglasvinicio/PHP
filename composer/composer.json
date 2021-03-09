@@ -1,0 +1,15 @@
+{
+    "name": "douglasvinicio/learning_composer",
+    "description": "Learning how to use composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Douglas Vinicio",
+            "email": "douglas.vinicio@hotmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.45"
+    }
+}
